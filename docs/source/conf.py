@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'FH User Guide'
+copyright = 'Flow Health 2022'
+author = 'Vadim Steckler'
 
 release = '0.1'
 version = '0.1.0'

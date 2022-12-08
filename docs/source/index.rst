@@ -8,7 +8,7 @@ LIS allows laboratory administrators to view a list of all system users whose ro
 
 The grid on the **Users** page displays the username, status, email, role and the last login time.
 
-The controls on the **Users** page enable searching for the required non-patient profiles, export the latest data on non-patients, or instantly add a non-patient user. For more details, see :doc:`search`.
+The controls on the **Users** page enable searching for the required non-patient profiles, export the latest data on non-patients, or instantly add a non-patient user. For more details, see :doc:`api`.
 
 The filtering options on the **Users** page allow a laboratory administrator to quickly narrow down the displayed results to match the selected criteria. For more details, see :doc:`filtering`.
 

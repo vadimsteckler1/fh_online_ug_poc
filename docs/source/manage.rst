@@ -7,7 +7,7 @@ User management options differ according to the particular role. To view the opt
 
 
 .. image::
-   AdminPortal_ViewUsers_02.png
+   Admin Portal_ViewUsers_02.png
 
 Click the user name when you see it in the list. The user profile appears in the expandable pane.
 

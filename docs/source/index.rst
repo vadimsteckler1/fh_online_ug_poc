@@ -1,9 +1,7 @@
-Feature-Rich PDF Annotator for C#/.NET Developers
-===================================
+Viewing active users
+=====================
 
-**GroupDocs PDF Annotator** is a feature-rich tool for adding special notes and markups to PDFs. Its lightweight API architecture is artfully tailored to enable you to effortlessly incorporate it into your application.
-
-With our Annotator your application will acquire the ability to add text annotations, highlights, callouts and other elements directly to the PDF without altering the original content. The annotations are saved to the document and can be viewed by using any PDF viewer. The annotated document can be then printed or forwarded in its completed form.
+LIS allows laboratory administrators to view a list of all system users whose role is different from `Patient` through the Users > Active Users section in the Admin Portal. The The filtering is combined with search. In the main table view of the screen Name, Status and Roles are visible. Last login column is out of scope. Search will only look-up for active Users at first implementation.
 
 .. note::
 
@@ -17,7 +15,7 @@ To give you a taste of what **GroupDocs PDF Annotator** brings to the table, her
 In the example below, an annotation area is added to a User Guide draft (PDF filename is ``UG_draft``) sent for review:
 
 .. image::
-   Annotator_01.png
+   Admin Portal_ViewUsers_01.png
 
 To accomplish this via the **GroupDocs PDF Annotator** API, the following request needs to be executed::
 

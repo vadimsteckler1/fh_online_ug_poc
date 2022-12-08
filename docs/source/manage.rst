@@ -9,10 +9,22 @@ User management options differ according to the particular role. To view the opt
 .. image::
    AdminPortal_ViewUsers_02.png
 
-Click the user name when you see it in the list. The user profile appears in the expandable pane.
+Each option is described in detail in the table below:
 
-In a similar fashion, you can also search non-patient users by their email address.
-
-Is there anything else?
--------------------
-You bet! You’ve seen how to create an annotation area, but this is just the surface. **GroupDocs PDF Annotator** provides a lot of powerful features for making the workflow easy and efficient, such as leaving comments, drawing figures, calculating distances, highlighting and marking up documents, and much more.
+.. table::
+====================  =============================================================
+Option                Description
+====================  =============================================================
+**Reset Password**    Invalidates the current user password and sends an email to
+                      the user prompting them to create a new password. 
+**Copy Link**         Copies the link to the user profile to the buffer, allowing
+                      you to use it for referral.
+**Block User**        Selecting this option renders the user unable to access LIS. 
+                      This is a temprorary measure that can be reverted by 
+                      selecting **Unblock User**. 
+**Unblock User**      This option is available for blocked users only. Selecting
+                      it restores all user's permissions and allows them to
+                      access LIS.
+**Delete User**       Deleting a user from LIS will permanently delete their profile
+                      and all of their associated data.
+====================  =============================================================

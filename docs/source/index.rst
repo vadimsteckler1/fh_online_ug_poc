@@ -1,7 +1,7 @@
 Viewing active users
 =====================
 
-LIS allows laboratory administrators to view a list of all system users whose role is different from `Patient` through the Users > Active Users section in the Admin Portal. The The filtering is combined with search. In the main table view of the screen Name, Status and Roles are visible. Last login column is out of scope. Search will only look-up for active Users at first implementation.
+LIS allows laboratory administrators to view a list of all system users whose role is different from ``Patient`` through the **Users > Active Users** section in the Admin Portal. The The filtering is combined with search. In the main table view of the screen Name, Status and Roles are visible. Last login column is out of scope. Search will only look-up for active Users at first implementation.
 
 .. note::
 
@@ -15,6 +15,7 @@ To give you a taste of what **GroupDocs PDF Annotator** brings to the table, her
 In the example below, an annotation area is added to a User Guide draft (PDF filename is ``UG_draft``) sent for review:
 
 .. image::
+
    Admin Portal_ViewUsers_01.png
 
 To accomplish this via the **GroupDocs PDF Annotator** API, the following request needs to be executed::

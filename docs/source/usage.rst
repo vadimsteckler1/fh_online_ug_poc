@@ -1,17 +1,38 @@
 Applying Filters
 ================
 
-To give you a taste of what the **Search** functionality brings to the table, start typing a user name in the **Search** field. As you type, a list of suggested matches appears below the search field based on what you’ve entered:
-
-
+The easiest way to find a required user is to use the **Filters** panel found underneath the **Users** page name:
+ 
 .. image::
-   AdminPortal_ViewUsers_03.png
+   AdminPortal_ViewUsers_04.png
 
-Click the user name when you see it in the list. The user profile appears in the expandable pane.
+The panel features the following filtering options:
 
-In a similar fashion, you can also search non-patient users by their email address.
+.. table::
+====================  =============================================================
+Option                Description
+====================  =============================================================
+**Email**             Check the appropriate option to display the users whose 
+                      email address is in the ``flowhealth`` domain 
+                      (``FH Employees``)
+                      or in any other domain (``Non FH Employees``). 
+**Practice**          Select a practice name to display only the users associated
+                      with this practice.
+**Labs**              Select a laboratory name to display only the users associated
+                      with this laboratory.
+**Roles**             Select a role to display only the users assigned this role
+**Last Login**        Check an option to display only the users whose most recent
+                      login occurred within the specific period. To define
+                      the required period more precisely, click **Custom
+                      Date Range**.
+**Status**            Check the appropriate option to display only the users
+                      with a specific status. 
+**Developer**         Check the appropriate option to display only the users with
+                      the ``Dev`` role (``Developers``) or with any other role
+                      (``Non-Developers``).
+====================  =============================================================
 
-Is there anything else?
+What's next?
 -------------------
-You bet! You’ve seen how to create an annotation area, but this is just the surface. **GroupDocs PDF Annotator** provides a lot of powerful features for making the workflow easy and efficient, such as leaving comments, drawing figures, calculating distances, highlighting and marking up documents, and much more.
+If you are assigned the ``Super Admin`` role, proceed to the :doc:`manage` topic to learn which user management options are available for different user roles.
 

@@ -22,3 +22,11 @@ What's next?
 -------------------
 The next steps for you are to follow through the tutorial to learn how to use the **Search** field to quickly find the required users as described in :doc:`search`.
 
+Contents
+--------
+
+.. toctree::
+
+   api
+   usage
+   manage

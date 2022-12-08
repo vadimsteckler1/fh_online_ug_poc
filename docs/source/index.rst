@@ -10,7 +10,7 @@ The grid on the **Users** page displays the username, status, email, role and th
 
 The controls on the **Users** page enable searching for the required non-patient profiles, export the latest data on non-patients, or instantly add a non-patient user. For more details, see :doc:`api`.
 
-The filtering options on the **Users** page allow a laboratory administrator to quickly narrow down the displayed results to match the selected criteria. For more details, see :doc:`filtering`.
+The filtering options on the **Users** page allow a laboratory administrator to quickly narrow down the displayed results to match the selected criteria. For more details, see :doc:`usage`.
 
 A laboratory administrator with ``Super Admin`` privileges can also manage active users as described in :doc:`manage`.
 

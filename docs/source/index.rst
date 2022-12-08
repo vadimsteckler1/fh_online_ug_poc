@@ -1,7 +1,7 @@
 Viewing Active Users
 =====================
 
-LIS allows laboratory administrators to view a list of all active system users whose role is different from ``Patient`` through the **Users > Active Users** section in the Admin Portal. In terms of the system, such users are referred to as ``non-patients``.
+LIS allows laboratory administrators to view a list of all active system users through the **Users > Active Users** section in the Admin Portal.
 
 .. image::
    Admin Portal_ViewUsers_01.png

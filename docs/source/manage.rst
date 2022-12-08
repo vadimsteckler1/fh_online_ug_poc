@@ -1,11 +1,13 @@
 Managing Users
 ================
 
-To give you a taste of what the **Search** functionality brings to the table, start typing a user name in the **Search** field. As you type, a list of suggested matches appears below the search field based on what you’ve entered:
+Controlling and managing user access is a fundamental security essential for any organization. LIS enables Super Admins to control user access and on-board and off-board users to and from the platform.
+
+User management options differ according to the particular role. To view the options available for a particular user, click on the respective ellipsis icon. A drop-down window similar to the below will appear: 
 
 
 .. image::
-   AdminPortal_ViewUsers_03.png
+   AdminPortal_ViewUsers_02.png
 
 Click the user name when you see it in the list. The user profile appears in the expandable pane.
 

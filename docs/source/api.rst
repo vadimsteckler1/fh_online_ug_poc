@@ -11,10 +11,6 @@ Click the user name when you see it in the list. The user profile appears in the
 
 In a similar fashion, you can also search users by their email address.
 
-Is there anything else?
--------------------
-You bet! You’ve seen how to use Search functionality, but this is just the surface. The **Active Users** section provides a lot of powerful features for filtering the user list and managing the users.
-
 What's next?
 -------------------
-The next step for you is to follow through the :doc:`usage` tutorial to learn how to use filtering to trim down the list of Active Users.
+You’ve seen how to use Search functionality, but this is just the surface. The **Active Users** section provides a lot of powerful features for filtering the user list and managing the users. The next step for you is to follow through the :doc:`usage` tutorial to learn how to trim down the list of Active Users.

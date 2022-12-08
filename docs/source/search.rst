@@ -7,8 +7,9 @@ To give you a taste of what the **Search** functionality brings to the table, st
 .. image::
    AdminPortal_ViewUsers_03.png
 
-Click the guest’s name when you see it in the list. The guest profile block appears.
-In a similar fashion, you can also search guests by their:
+Click the user name when you see it in the list. The user profile appears in the expandable pane.
+
+In a similar fashion, you can also search non-patient users by their email address.
 
 Is there anything else?
 -------------------

@@ -15,7 +15,6 @@ To give you a taste of what **GroupDocs PDF Annotator** brings to the table, her
 In the example below, an annotation area is added to a User Guide draft (PDF filename is ``UG_draft``) sent for review:
 
 .. image::
-
    Admin Portal_ViewUsers_01.png
 
 To accomplish this via the **GroupDocs PDF Annotator** API, the following request needs to be executed::

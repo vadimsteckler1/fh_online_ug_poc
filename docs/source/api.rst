@@ -17,4 +17,4 @@ You bet! You’ve seen how to use Search functionality, but this is just the sur
 
 What's next?
 -------------------
-The next step for you is to follow through the tutorial to learn how to use filtering to trim down the list of Active Users.
+The next step for you is to follow through the :doc:`usage` tutorial to learn how to use filtering to trim down the list of Active Users.
